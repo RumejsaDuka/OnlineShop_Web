@@ -1,0 +1,23 @@
+{
+  "mode": "local-server",
+  "routes": [
+    {
+      "device": "desktop",
+      "route": "/",
+      "images": 15,
+      "status": 200,
+      "brokenImages": 0,
+      "horizontalOverflow": false,
+      "screenshot": "desktop-home.png"
+    },
+    {
+      "device": "mobile",
+      "route": "/",
+      "images": 15,
+      "status": 200,
+      "brokenImages": 0,
+      "horizontalOverflow": false,
+      "screenshot": "mobile-home.png"
+    }
+  ]
+}

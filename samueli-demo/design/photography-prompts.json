@@ -1,0 +1,78 @@
+{
+  "tool": "built-in image_gen",
+  "notice": "Generated concept demo imagery; not verified inventory photography. Existing source photographs are retained. No new brand designs requested.",
+  "promptTemplate": "Use case: precise-object-edit / product-mockup. Edit target is the attached existing demo product photograph. Create ONE standalone transparent-background ecommerce product cutout on a square canvas. SUBJECT: {subject} Composition: complete product entirely within frame, centered with 8% clear margin all around; apparel shows natural structured volume with invisible mannequin technique and hollow necklines. Photograph the garment, never a human. Invariants: retain the supplied product design, existing marks and brand symbols, color, stitching, zipper placement and construction. Do not invent or add logos, words, labels or marks. Reconstruct only cropped hems or folded-away garment sections as necessary. No fake side or back view. Soft premium studio light, subtle realistic shadows within the garment, crisp matte textile/leather texture, natural proportions and folds. Remove only the old background. Avoid people, skin, faces, bodies, hands, visible mannequins, hangers, plastic, artificial gloss, extra clothes, text, watermark. Return actual transparent alpha. Concept demo photography.",
+  "jobs": [
+    {
+      "name": "puffer",
+      "source": "public/images/products/light_black_puffer.webp",
+      "subject": "The full black hooded puffer jacket. Keep its existing small white chest mark."
+    },
+    {
+      "name": "winter-puffer",
+      "source": "public/images/products/01_product_black_puffer.webp",
+      "subject": "The full black winter hooded puffer jacket. Preserve the existing white chest embroidery as supplied, do not correct or invent text."
+    },
+    {
+      "name": "short-puffer",
+      "source": "public/images/products/06_product_secondary_black_puffer.webp",
+      "subject": "The full short black padded hooded jacket, preserve the existing small cK embroidery."
+    },
+    {
+      "name": "hooded-tracksuit",
+      "source": "public/images/products/light_black_tracksuit.webp",
+      "subject": "The full black pullover hoodie on the LEFT and its matching black joggers on the RIGHT. Preserve their existing small marks."
+    },
+    {
+      "name": "striped-tracksuit",
+      "source": "public/images/products/05_product_striped_tracksuit.webp",
+      "subject": "The full black high-collar zip tracksuit jacket on the LEFT and matching black trousers on the RIGHT. Preserve all existing white stripes and chest/thigh marks as supplied; do not invent, correct or swap branding."
+    },
+    {
+      "name": "gray-tracksuit",
+      "source": "public/images/categories/tracksuits.webp",
+      "subject": "Unfold the dark gray zip hoodie and matching dark gray joggers into a complete straight-on front view, hoodie on LEFT and trousers on RIGHT. Keep the exact existing small white marks, zipper, fabric color and material. Show full garments, no folded stacks."
+    },
+    {
+      "name": "white-tee",
+      "source": "public/images/products/light_white_tshirt.webp",
+      "subject": "The entire white short-sleeved men's T-shirt, preserve existing small black chest mark and neckline label."
+    },
+    {
+      "name": "oversize-black-tee",
+      "source": "public/images/products/07_product_black_tshirt.webp",
+      "subject": "The entire oversize black short-sleeved men's T-shirt, preserve existing cK chest embroidery."
+    },
+    {
+      "name": "black-tee",
+      "source": "public/images/categories/tshirts.webp",
+      "subject": "Unfold this black short-sleeved men's crew-neck T-shirt into a complete straight-on front view. Preserve existing small white chest mark."
+    },
+    {
+      "name": "classic-sneaker",
+      "source": "public/images/products/light_white_sneaker.webp",
+      "subject": "The exact white low-top sneaker with black side detail, single shoe, complete side profile, toe pointing LEFT, realistic leather and rubber, keep all existing marks and construction."
+    },
+    {
+      "name": "retro-sneaker",
+      "source": "public/images/products/08_product_three_stripe_sneakers.webp",
+      "subject": "The exact white and black three-stripe low-top sneaker with gum sole, single shoe, complete side profile, toe pointing LEFT. Keep all stripes, materials and existing details."
+    },
+    {
+      "name": "cap",
+      "source": "public/images/categories/accessories_cap.webp",
+      "subject": "The exact black baseball cap in a three-quarter view facing LEFT, preserve the existing NY embroidery without altering its shape. Natural fabric crown structure and stitching."
+    },
+    {
+      "name": "piped-tracksuit",
+      "source": "public/images/products/02_product_black_tracksuit.webp",
+      "prompt": "Use case: product-mockup / precise-object-edit. Edit target: supplied local black men's tracksuit product photo. Prepare ONE standalone transparent-background ecommerce product cutout, straight-on full-length front view. Show the entire black zip jacket on the LEFT and matching trousers on the RIGHT side by side with a small natural gap, both fully in frame, 8% empty margin all around, square canvas. Ghost mannequin photography, hollow neckline, realistic structured volume, no body or mannequin visible. Preserve the garment's existing white piping, seams, zippers, fabric, proportions and existing small chest/thigh marks exactly, do not invent or redraw any branding or add logos. Complete the cropped lower hems naturally. Soft professional studio light, detailed matte textile, no glossy plastic or dramatic floating shapes. Remove the old dark backdrop. No people, faces, skin, models, hands, visible mannequins, hangers, captions, text or watermark. This is a concept demo asset, not claimed authentic inventory. Return actual transparency."
+    }
+  ],
+  "corrections": [
+    {
+      "name": "cap",
+      "prompt": "Use case: precise-object-edit. Correct ONE unintended addition in this concept cap asset. Remove the rectangular side badge on the RIGHT side of the crown completely, reconstructing only plain black cotton twill fabric in that small area, matching existing stitch directions, lighting and grain. This badge was an unrequested generated addition. Keep the entire rest of the cap unchanged: exact existing front interlocking NY embroidery, angle, shape, brim, seams, eyelets, color, material, lighting, size, framing, transparent background and alpha. Do not add any new logos, marks, letters, icons or text anywhere. No people, faces, bodies, mannequin or background. Return same standalone transparent cap."
+    }
+  ]
+}

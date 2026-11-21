@@ -1,0 +1,509 @@
+{
+  "mode": "local-server",
+  "routes": [
+    {
+      "device": "desktop",
+      "route": "/",
+      "images": 15,
+      "status": 200,
+      "brokenImages": 0,
+      "horizontalOverflow": false,
+      "screenshot": "desktop-home.png"
+    },
+    {
+      "device": "desktop",
+      "route": "/koleksionet",
+      "images": 5,
+      "status": 200,
+      "brokenImages": 0,
+      "horizontalOverflow": false,
+      "screenshot": "desktop-koleksionet.png"
+    },
+    {
+      "device": "desktop",
+      "route": "/kategoria/te-gjitha",
+      "images": 7,
+      "status": 200,
+      "brokenImages": 0,
+      "horizontalOverflow": false,
+      "screenshot": "desktop-kategoria-te-gjitha.png"
+    },
+    {
+      "device": "desktop",
+      "route": "/kategoria/xhaketa",
+      "images": 4,
+      "status": 200,
+      "brokenImages": 0,
+      "horizontalOverflow": false,
+      "screenshot": "desktop-kategoria-xhaketa.png"
+    },
+    {
+      "device": "desktop",
+      "route": "/kategoria/kostume-sportive",
+      "images": 5,
+      "status": 200,
+      "brokenImages": 0,
+      "horizontalOverflow": false,
+      "screenshot": "desktop-kategoria-kostume-sportive.png"
+    },
+    {
+      "device": "desktop",
+      "route": "/kategoria/bluza",
+      "images": 4,
+      "status": 200,
+      "brokenImages": 0,
+      "horizontalOverflow": false,
+      "screenshot": "desktop-kategoria-bluza.png"
+    },
+    {
+      "device": "desktop",
+      "route": "/kategoria/atlete",
+      "images": 3,
+      "status": 200,
+      "brokenImages": 0,
+      "horizontalOverflow": false,
+      "screenshot": "desktop-kategoria-atlete.png"
+    },
+    {
+      "device": "desktop",
+      "route": "/kategoria/aksesore",
+      "images": 1,
+      "status": 200,
+      "brokenImages": 0,
+      "horizontalOverflow": false,
+      "screenshot": "desktop-kategoria-aksesore.png"
+    },
+    {
+      "device": "desktop",
+      "route": "/produkt/xhakete-puffer",
+      "images": 5,
+      "status": 200,
+      "brokenImages": 0,
+      "horizontalOverflow": false,
+      "screenshot": "desktop-produkt-xhakete-puffer.png"
+    },
+    {
+      "device": "desktop",
+      "route": "/produkt/kostum-sportiv",
+      "images": 5,
+      "status": 200,
+      "brokenImages": 0,
+      "horizontalOverflow": false,
+      "screenshot": "desktop-produkt-kostum-sportiv.png"
+    },
+    {
+      "device": "desktop",
+      "route": "/produkt/bluze-basic",
+      "images": 5,
+      "status": 200,
+      "brokenImages": 0,
+      "horizontalOverflow": false,
+      "screenshot": "desktop-produkt-bluze-basic.png"
+    },
+    {
+      "device": "desktop",
+      "route": "/produkt/atlete-classic",
+      "images": 5,
+      "status": 200,
+      "brokenImages": 0,
+      "horizontalOverflow": false,
+      "screenshot": "desktop-produkt-atlete-classic.png"
+    },
+    {
+      "device": "desktop",
+      "route": "/produkt/xhakete-dimri-me-kapuc",
+      "images": 5,
+      "status": 200,
+      "brokenImages": 0,
+      "horizontalOverflow": false,
+      "screenshot": "desktop-produkt-xhakete-dimri-me-kapuc.png"
+    },
+    {
+      "device": "desktop",
+      "route": "/produkt/xhakete-e-shkurter",
+      "images": 5,
+      "status": 200,
+      "brokenImages": 0,
+      "horizontalOverflow": false,
+      "screenshot": "desktop-produkt-xhakete-e-shkurter.png"
+    },
+    {
+      "device": "desktop",
+      "route": "/produkt/kostum-sportiv-me-bordure",
+      "images": 5,
+      "status": 200,
+      "brokenImages": 0,
+      "horizontalOverflow": false,
+      "screenshot": "desktop-produkt-kostum-sportiv-me-bordure.png"
+    },
+    {
+      "device": "desktop",
+      "route": "/produkt/kostum-sportiv-me-vija",
+      "images": 5,
+      "status": 200,
+      "brokenImages": 0,
+      "horizontalOverflow": false,
+      "screenshot": "desktop-produkt-kostum-sportiv-me-vija.png"
+    },
+    {
+      "device": "desktop",
+      "route": "/produkt/kostum-sportiv-gri",
+      "images": 5,
+      "status": 200,
+      "brokenImages": 0,
+      "horizontalOverflow": false,
+      "screenshot": "desktop-produkt-kostum-sportiv-gri.png"
+    },
+    {
+      "device": "desktop",
+      "route": "/produkt/bluze-oversize-e-zeze",
+      "images": 5,
+      "status": 200,
+      "brokenImages": 0,
+      "horizontalOverflow": false,
+      "screenshot": "desktop-produkt-bluze-oversize-e-zeze.png"
+    },
+    {
+      "device": "desktop",
+      "route": "/produkt/bluze-basic-e-zeze",
+      "images": 5,
+      "status": 200,
+      "brokenImages": 0,
+      "horizontalOverflow": false,
+      "screenshot": "desktop-produkt-bluze-basic-e-zeze.png"
+    },
+    {
+      "device": "desktop",
+      "route": "/produkt/atlete-retro-me-vija",
+      "images": 5,
+      "status": 200,
+      "brokenImages": 0,
+      "horizontalOverflow": false,
+      "screenshot": "desktop-produkt-atlete-retro-me-vija.png"
+    },
+    {
+      "device": "desktop",
+      "route": "/oferta",
+      "images": 4,
+      "status": 200,
+      "brokenImages": 0,
+      "horizontalOverflow": false,
+      "screenshot": "desktop-oferta.png"
+    },
+    {
+      "device": "desktop",
+      "route": "/kerko?q=kostum",
+      "images": 4,
+      "status": 200,
+      "brokenImages": 0,
+      "horizontalOverflow": false,
+      "screenshot": "desktop-kerko-q-kostum.png"
+    },
+    {
+      "device": "desktop",
+      "route": "/te-preferuarat",
+      "images": 2,
+      "status": 200,
+      "brokenImages": 0,
+      "horizontalOverflow": false,
+      "screenshot": "desktop-te-preferuarat.png"
+    },
+    {
+      "device": "desktop",
+      "route": "/shporta",
+      "images": 2,
+      "status": 200,
+      "brokenImages": 0,
+      "horizontalOverflow": false,
+      "screenshot": "desktop-shporta.png"
+    },
+    {
+      "device": "desktop",
+      "route": "/perfundimi-porosise",
+      "images": 2,
+      "status": 200,
+      "brokenImages": 0,
+      "horizontalOverflow": false,
+      "screenshot": "desktop-perfundimi-porosise.png"
+    },
+    {
+      "device": "desktop",
+      "route": "/rreth-nesh",
+      "images": 1,
+      "status": 200,
+      "brokenImages": 0,
+      "horizontalOverflow": false,
+      "screenshot": "desktop-rreth-nesh.png"
+    },
+    {
+      "device": "desktop",
+      "route": "/kontakt",
+      "images": 0,
+      "status": 200,
+      "brokenImages": 0,
+      "horizontalOverflow": false,
+      "screenshot": "desktop-kontakt.png"
+    },
+    {
+      "device": "desktop",
+      "route": "/llogaria",
+      "images": 0,
+      "status": 200,
+      "brokenImages": 0,
+      "horizontalOverflow": false,
+      "screenshot": "desktop-llogaria.png"
+    },
+    {
+      "device": "mobile",
+      "route": "/",
+      "images": 15,
+      "status": 200,
+      "brokenImages": 0,
+      "horizontalOverflow": false,
+      "screenshot": "mobile-home.png"
+    },
+    {
+      "device": "mobile",
+      "route": "/koleksionet",
+      "images": 5,
+      "status": 200,
+      "brokenImages": 0,
+      "horizontalOverflow": false,
+      "screenshot": "mobile-koleksionet.png"
+    },
+    {
+      "device": "mobile",
+      "route": "/kategoria/te-gjitha",
+      "images": 7,
+      "status": 200,
+      "brokenImages": 0,
+      "horizontalOverflow": false,
+      "screenshot": "mobile-kategoria-te-gjitha.png"
+    },
+    {
+      "device": "mobile",
+      "route": "/kategoria/xhaketa",
+      "images": 4,
+      "status": 200,
+      "brokenImages": 0,
+      "horizontalOverflow": false,
+      "screenshot": "mobile-kategoria-xhaketa.png"
+    },
+    {
+      "device": "mobile",
+      "route": "/kategoria/kostume-sportive",
+      "images": 5,
+      "status": 200,
+      "brokenImages": 0,
+      "horizontalOverflow": false,
+      "screenshot": "mobile-kategoria-kostume-sportive.png"
+    },
+    {
+      "device": "mobile",
+      "route": "/kategoria/bluza",
+      "images": 4,
+      "status": 200,
+      "brokenImages": 0,
+      "horizontalOverflow": false,
+      "screenshot": "mobile-kategoria-bluza.png"
+    },
+    {
+      "device": "mobile",
+      "route": "/kategoria/atlete",
+      "images": 3,
+      "status": 200,
+      "brokenImages": 0,
+      "horizontalOverflow": false,
+      "screenshot": "mobile-kategoria-atlete.png"
+    },
+    {
+      "device": "mobile",
+      "route": "/kategoria/aksesore",
+      "images": 1,
+      "status": 200,
+      "brokenImages": 0,
+      "horizontalOverflow": false,
+      "screenshot": "mobile-kategoria-aksesore.png"
+    },
+    {
+      "device": "mobile",
+      "route": "/produkt/xhakete-puffer",
+      "images": 5,
+      "status": 200,
+      "brokenImages": 0,
+      "horizontalOverflow": false,
+      "screenshot": "mobile-produkt-xhakete-puffer.png"
+    },
+    {
+      "device": "mobile",
+      "route": "/produkt/kostum-sportiv",
+      "images": 5,
+      "status": 200,
+      "brokenImages": 0,
+      "horizontalOverflow": false,
+      "screenshot": "mobile-produkt-kostum-sportiv.png"
+    },
+    {
+      "device": "mobile",
+      "route": "/produkt/bluze-basic",
+      "images": 5,
+      "status": 200,
+      "brokenImages": 0,
+      "horizontalOverflow": false,
+      "screenshot": "mobile-produkt-bluze-basic.png"
+    },
+    {
+      "device": "mobile",
+      "route": "/produkt/atlete-classic",
+      "images": 5,
+      "status": 200,
+      "brokenImages": 0,
+      "horizontalOverflow": false,
+      "screenshot": "mobile-produkt-atlete-classic.png"
+    },
+    {
+      "device": "mobile",
+      "route": "/produkt/xhakete-dimri-me-kapuc",
+      "images": 5,
+      "status": 200,
+      "brokenImages": 0,
+      "horizontalOverflow": false,
+      "screenshot": "mobile-produkt-xhakete-dimri-me-kapuc.png"
+    },
+    {
+      "device": "mobile",
+      "route": "/produkt/xhakete-e-shkurter",
+      "images": 5,
+      "status": 200,
+      "brokenImages": 0,
+      "horizontalOverflow": false,
+      "screenshot": "mobile-produkt-xhakete-e-shkurter.png"
+    },
+    {
+      "device": "mobile",
+      "route": "/produkt/kostum-sportiv-me-bordure",
+      "images": 5,
+      "status": 200,
+      "brokenImages": 0,
+      "horizontalOverflow": false,
+      "screenshot": "mobile-produkt-kostum-sportiv-me-bordure.png"
+    },
+    {
+      "device": "mobile",
+      "route": "/produkt/kostum-sportiv-me-vija",
+      "images": 5,
+      "status": 200,
+      "brokenImages": 0,
+      "horizontalOverflow": false,
+      "screenshot": "mobile-produkt-kostum-sportiv-me-vija.png"
+    },
+    {
+      "device": "mobile",
+      "route": "/produkt/kostum-sportiv-gri",
+      "images": 5,
+      "status": 200,
+      "brokenImages": 0,
+      "horizontalOverflow": false,
+      "screenshot": "mobile-produkt-kostum-sportiv-gri.png"
+    },
+    {
+      "device": "mobile",
+      "route": "/produkt/bluze-oversize-e-zeze",
+      "images": 5,
+      "status": 200,
+      "brokenImages": 0,
+      "horizontalOverflow": false,
+      "screenshot": "mobile-produkt-bluze-oversize-e-zeze.png"
+    },
+    {
+      "device": "mobile",
+      "route": "/produkt/bluze-basic-e-zeze",
+      "images": 5,
+      "status": 200,
+      "brokenImages": 0,
+      "horizontalOverflow": false,
+      "screenshot": "mobile-produkt-bluze-basic-e-zeze.png"
+    },
+    {
+      "device": "mobile",
+      "route": "/produkt/atlete-retro-me-vija",
+      "images": 5,
+      "status": 200,
+      "brokenImages": 0,
+      "horizontalOverflow": false,
+      "screenshot": "mobile-produkt-atlete-retro-me-vija.png"
+    },
+    {
+      "device": "mobile",
+      "route": "/oferta",
+      "images": 4,
+      "status": 200,
+      "brokenImages": 0,
+      "horizontalOverflow": false,
+      "screenshot": "mobile-oferta.png"
+    },
+    {
+      "device": "mobile",
+      "route": "/kerko?q=kostum",
+      "images": 4,
+      "status": 200,
+      "brokenImages": 0,
+      "horizontalOverflow": false,
+      "screenshot": "mobile-kerko-q-kostum.png"
+    },
+    {
+      "device": "mobile",
+      "route": "/te-preferuarat",
+      "images": 2,
+      "status": 200,
+      "brokenImages": 0,
+      "horizontalOverflow": false,
+      "screenshot": "mobile-te-preferuarat.png"
+    },
+    {
+      "device": "mobile",
+      "route": "/shporta",
+      "images": 2,
+      "status": 200,
+      "brokenImages": 0,
+      "horizontalOverflow": false,
+      "screenshot": "mobile-shporta.png"
+    },
+    {
+      "device": "mobile",
+      "route": "/perfundimi-porosise",
+      "images": 2,
+      "status": 200,
+      "brokenImages": 0,
+      "horizontalOverflow": false,
+      "screenshot": "mobile-perfundimi-porosise.png"
+    },
+    {
+      "device": "mobile",
+      "route": "/rreth-nesh",
+      "images": 1,
+      "status": 200,
+      "brokenImages": 0,
+      "horizontalOverflow": false,
+      "screenshot": "mobile-rreth-nesh.png"
+    },
+    {
+      "device": "mobile",
+      "route": "/kontakt",
+      "images": 0,
+      "status": 200,
+      "brokenImages": 0,
+      "horizontalOverflow": false,
+      "screenshot": "mobile-kontakt.png"
+    },
+    {
+      "device": "mobile",
+      "route": "/llogaria",
+      "images": 0,
+      "status": 200,
+      "brokenImages": 0,
+      "horizontalOverflow": false,
+      "screenshot": "mobile-llogaria.png"
+    }
+  ]
+}
