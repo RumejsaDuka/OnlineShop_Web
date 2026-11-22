@@ -3,7 +3,6 @@
 import Link from "next/link";
 import { useRef } from "react";
 import { ArrowRight } from "lucide-react";
-import { categories } from "@/lib/data";
 import { gsap, useGSAP, MOTION_OK } from "@/lib/gsap";
 import { publicAssetPath } from "@/lib/site-config";
 
@@ -45,11 +44,6 @@ export default function Hero() {
               Shiko koleksionin <ArrowRight aria-hidden className="arrow-nudge size-5" strokeWidth={1.75} />
             </Link>
           </div>
-          <ul data-intro data-copy className="collection-hero-categories" aria-label="Kategoritë e koleksionit">
-            {categories.filter(category => category.slug !== "kostume-sportive").map(category => (
-              <li key={category.slug}><Link href={`/kategoria/${category.slug}`} className="inline-flex min-h-10 items-center rounded-full border border-ink/10 bg-white/70 px-3 text-[12px] font-medium transition-colors hover:border-ink/30 hover:bg-white lg:text-[13px]">{category.label}</Link></li>
-            ))}
-          </ul>
         </div>
       </div>
     </section>

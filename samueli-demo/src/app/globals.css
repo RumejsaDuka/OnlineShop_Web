@@ -215,7 +215,6 @@ html.js:not(.reduce-motion) [data-intro] {
 .collection-hero-image { display: block; width: 100%; height: 100%; object-fit: cover; object-position: calc(50% + 64px) top; }
 .collection-hero-details { width: 100%; }
 .collection-hero-description { max-width: 22ch; color: #1c1c1f; font-size: 14px; font-weight: 500; line-height: 1.65; }
-.collection-hero-categories { display: none; flex-wrap: wrap; gap: 8px; margin-top: 20px; }
 .home-category-list { display: grid; grid-template-columns: repeat(5, minmax(0,1fr)); gap: 6px; }
 .home-category-label { font-size: clamp(9px, 2.7vw, 13px); }
 @media (max-width: 379px) {
@@ -236,7 +235,6 @@ html.js:not(.reduce-motion) [data-intro] {
   .collection-hero-image { object-position: center top; }
   .collection-hero-details { grid-column: 3; text-align: right; }
   .collection-hero-description { max-width: 32ch; margin-left: auto; color: #fff; font-size: clamp(18px, 1.35vw, 22px); text-shadow: 0 1px 4px rgba(0,0,0,.65); }
-  .collection-hero-categories { display: flex; justify-content: flex-end; margin-top: 24px; }
   .home-category-list { gap: 16px; }
   .home-category-label { font-size: 16px; }
 }
