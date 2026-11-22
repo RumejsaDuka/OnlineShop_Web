@@ -1,0 +1,10 @@
+{
+  "gallery": "passed",
+  "requiredSizeAndCart": "passed",
+  "wishlist": "passed",
+  "sorting": "passed",
+  "filtering": "passed",
+  "searchThumbnails": "passed",
+  "navigationMenu": "passed",
+  "motionIntro": "passed"
+}

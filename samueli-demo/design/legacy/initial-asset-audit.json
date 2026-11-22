@@ -1,0 +1,350 @@
+[
+  {
+    "id": 0,
+    "path": "store\\samueli_store_front.webp",
+    "width": 567,
+    "height": 535
+  },
+  {
+    "id": 1,
+    "path": "products\\01_product_black_puffer.webp",
+    "width": 608,
+    "height": 446
+  },
+  {
+    "id": 2,
+    "path": "products\\02_product_black_tracksuit.webp",
+    "width": 608,
+    "height": 446
+  },
+  {
+    "id": 3,
+    "path": "products\\03_product_white_tshirt.webp",
+    "width": 608,
+    "height": 446
+  },
+  {
+    "id": 4,
+    "path": "products\\04_product_white_sneakers.webp",
+    "width": 608,
+    "height": 446
+  },
+  {
+    "id": 5,
+    "path": "products\\05_product_striped_tracksuit.webp",
+    "width": 600,
+    "height": 412
+  },
+  {
+    "id": 6,
+    "path": "products\\06_product_secondary_black_puffer.webp",
+    "width": 600,
+    "height": 412
+  },
+  {
+    "id": 7,
+    "path": "products\\07_product_black_tshirt.webp",
+    "width": 600,
+    "height": 412
+  },
+  {
+    "id": 8,
+    "path": "products\\08_product_three_stripe_sneakers.webp",
+    "width": 600,
+    "height": 412
+  },
+  {
+    "id": 9,
+    "path": "products\\light_black_puffer.webp",
+    "width": 969,
+    "height": 546
+  },
+  {
+    "id": 10,
+    "path": "products\\light_black_tracksuit.webp",
+    "width": 963,
+    "height": 546
+  },
+  {
+    "id": 11,
+    "path": "products\\light_white_sneaker.webp",
+    "width": 972,
+    "height": 546
+  },
+  {
+    "id": 12,
+    "path": "products\\light_white_tshirt.webp",
+    "width": 951,
+    "height": 546
+  },
+  {
+    "id": 13,
+    "path": "products\\WhatsApp Image 2026-11-21 at 8.52.05 PM (1).jpeg",
+    "width": 960,
+    "height": 1280
+  },
+  {
+    "id": 14,
+    "path": "products\\WhatsApp Image 2026-11-21 at 8.52.05 PM.jpeg",
+    "width": 960,
+    "height": 1280
+  },
+  {
+    "id": 15,
+    "path": "products\\WhatsApp Image 2026-11-21 at 8.52.06 PM (1).jpeg",
+    "width": 960,
+    "height": 1280
+  },
+  {
+    "id": 16,
+    "path": "products\\WhatsApp Image 2026-11-21 at 8.52.06 PM (2).jpeg",
+    "width": 960,
+    "height": 1280
+  },
+  {
+    "id": 17,
+    "path": "products\\WhatsApp Image 2026-11-21 at 8.52.06 PM (3).jpeg",
+    "width": 960,
+    "height": 1280
+  },
+  {
+    "id": 18,
+    "path": "products\\WhatsApp Image 2026-11-21 at 8.52.06 PM.jpeg",
+    "width": 960,
+    "height": 1280
+  },
+  {
+    "id": 19,
+    "path": "products\\WhatsApp Image 2026-11-21 at 8.52.07 PM (1).jpeg",
+    "width": 960,
+    "height": 1280
+  },
+  {
+    "id": 20,
+    "path": "products\\WhatsApp Image 2026-11-21 at 8.52.07 PM (2).jpeg",
+    "width": 960,
+    "height": 1280
+  },
+  {
+    "id": 21,
+    "path": "products\\WhatsApp Image 2026-11-21 at 8.52.07 PM (3).jpeg",
+    "width": 960,
+    "height": 1280
+  },
+  {
+    "id": 22,
+    "path": "products\\WhatsApp Image 2026-11-21 at 8.52.07 PM (4).jpeg",
+    "width": 960,
+    "height": 1280
+  },
+  {
+    "id": 23,
+    "path": "products\\WhatsApp Image 2026-11-21 at 8.52.07 PM.jpeg",
+    "width": 960,
+    "height": 1280
+  },
+  {
+    "id": 24,
+    "path": "products\\WhatsApp Image 2026-11-21 at 8.52.08 PM (1).jpeg",
+    "width": 960,
+    "height": 1280
+  },
+  {
+    "id": 25,
+    "path": "products\\WhatsApp Image 2026-11-21 at 8.52.08 PM (2).jpeg",
+    "width": 960,
+    "height": 1280
+  },
+  {
+    "id": 26,
+    "path": "products\\WhatsApp Image 2026-11-21 at 8.52.08 PM.jpeg",
+    "width": 960,
+    "height": 1280
+  },
+  {
+    "id": 27,
+    "path": "products\\WhatsApp Image 2026-11-21 at 8.52.09 PM.jpeg",
+    "width": 960,
+    "height": 1280
+  },
+  {
+    "id": 28,
+    "path": "products\\WhatsApp Image 2026-11-21 at 8.52.10 PM (1).jpeg",
+    "width": 960,
+    "height": 1280
+  },
+  {
+    "id": 29,
+    "path": "products\\WhatsApp Image 2026-11-21 at 8.52.10 PM (2).jpeg",
+    "width": 960,
+    "height": 1280
+  },
+  {
+    "id": 30,
+    "path": "products\\WhatsApp Image 2026-11-21 at 8.52.10 PM.jpeg",
+    "width": 960,
+    "height": 1280
+  },
+  {
+    "id": 31,
+    "path": "products\\WhatsApp Image 2026-11-21 at 8.52.11 PM (1).jpeg",
+    "width": 960,
+    "height": 1280
+  },
+  {
+    "id": 32,
+    "path": "products\\WhatsApp Image 2026-11-21 at 8.52.11 PM (2).jpeg",
+    "width": 960,
+    "height": 1280
+  },
+  {
+    "id": 33,
+    "path": "products\\WhatsApp Image 2026-11-21 at 8.52.11 PM.jpeg",
+    "width": 960,
+    "height": 1280
+  },
+  {
+    "id": 34,
+    "path": "products\\WhatsApp Image 2026-11-21 at 8.52.12 PM (1).jpeg",
+    "width": 960,
+    "height": 1280
+  },
+  {
+    "id": 35,
+    "path": "products\\WhatsApp Image 2026-11-21 at 8.52.12 PM (2).jpeg",
+    "width": 960,
+    "height": 1280
+  },
+  {
+    "id": 36,
+    "path": "products\\WhatsApp Image 2026-11-21 at 8.52.12 PM.jpeg",
+    "width": 960,
+    "height": 1280
+  },
+  {
+    "id": 37,
+    "path": "products\\WhatsApp Image 2026-11-21 at 8.52.13 PM (1).jpeg",
+    "width": 960,
+    "height": 1280
+  },
+  {
+    "id": 38,
+    "path": "products\\WhatsApp Image 2026-11-21 at 8.52.13 PM (2).jpeg",
+    "width": 960,
+    "height": 1280
+  },
+  {
+    "id": 39,
+    "path": "products\\WhatsApp Image 2026-11-21 at 8.52.13 PM.jpeg",
+    "width": 960,
+    "height": 1280
+  },
+  {
+    "id": 40,
+    "path": "products\\WhatsApp Image 2026-11-21 at 8.52.14 PM (1).jpeg",
+    "width": 960,
+    "height": 1280
+  },
+  {
+    "id": 41,
+    "path": "products\\WhatsApp Image 2026-11-21 at 8.52.14 PM.jpeg",
+    "width": 960,
+    "height": 1280
+  },
+  {
+    "id": 42,
+    "path": "products\\WhatsApp Image 2026-11-21 at 8.52.15 PM (1).jpeg",
+    "width": 960,
+    "height": 1280
+  },
+  {
+    "id": 43,
+    "path": "products\\WhatsApp Image 2026-11-21 at 8.52.15 PM (2).jpeg",
+    "width": 960,
+    "height": 1280
+  },
+  {
+    "id": 44,
+    "path": "products\\WhatsApp Image 2026-11-21 at 8.52.15 PM.jpeg",
+    "width": 960,
+    "height": 1280
+  },
+  {
+    "id": 45,
+    "path": "products\\WhatsApp Image 2026-11-21 at 8.52.16 PM.jpeg",
+    "width": 960,
+    "height": 1280
+  },
+  {
+    "id": 46,
+    "path": "products\\WhatsApp Image 2026-11-21 at 8.52.17 PM (1).jpeg",
+    "width": 960,
+    "height": 1280
+  },
+  {
+    "id": 47,
+    "path": "products\\WhatsApp Image 2026-11-21 at 8.52.17 PM (2).jpeg",
+    "width": 960,
+    "height": 1280
+  },
+  {
+    "id": 48,
+    "path": "products\\WhatsApp Image 2026-11-21 at 8.52.17 PM.jpeg",
+    "width": 960,
+    "height": 1280
+  },
+  {
+    "id": 49,
+    "path": "hero\\jacket_campaign.webp",
+    "width": 1672,
+    "height": 941
+  },
+  {
+    "id": 50,
+    "path": "hero\\jacket_detail.webp",
+    "width": 1672,
+    "height": 941
+  },
+  {
+    "id": 51,
+    "path": "hero\\outfit_flatlay.webp",
+    "width": 1120,
+    "height": 724
+  },
+  {
+    "id": 52,
+    "path": "hero\\urban_desktop.webp",
+    "width": 1672,
+    "height": 941
+  },
+  {
+    "id": 53,
+    "path": "categories\\accessories_cap.webp",
+    "width": 330,
+    "height": 240
+  },
+  {
+    "id": 54,
+    "path": "categories\\jackets.webp",
+    "width": 770,
+    "height": 680
+  },
+  {
+    "id": 55,
+    "path": "categories\\sneakers.webp",
+    "width": 678,
+    "height": 676
+  },
+  {
+    "id": 56,
+    "path": "categories\\tracksuits.webp",
+    "width": 648,
+    "height": 676
+  },
+  {
+    "id": 57,
+    "path": "categories\\tshirts.webp",
+    "width": 704,
+    "height": 676
+  }
+]

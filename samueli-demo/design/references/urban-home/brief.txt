@@ -1,0 +1,205 @@
+You are updating an existing Samueli Fashion frontend project.
+
+TASK:
+Recreate the homepage hero section so it matches the attached desktop and mobile reference screenshots as closely as possible.
+
+IMPORTANT:
+- Edit the existing project, do not rebuild from scratch.
+- Do not redesign the whole homepage.
+- Only update:
+  1. the top info bar
+  2. the main navbar
+  3. the hero section
+  4. the category shortcut cards directly below the hero
+- Build this as real frontend UI, not as one flat background screenshot.
+
+==================================================
+SOURCE OF TRUTH
+==================================================
+
+Use the attached desktop and mobile screenshots as the visual source of truth.
+
+The final result should match:
+- layout
+- spacing
+- proportions
+- content hierarchy
+- color usage
+- category card style
+- general premium visual feel
+
+==================================================
+DESKTOP HERO REQUIREMENTS
+==================================================
+
+Create a desktop hero section with this structure:
+
+1. TOP INFO BAR
+- Full-width black bar above the navbar.
+- 3 short messages across the bar.
+- White text/icons.
+- Slim height.
+- Premium minimal look.
+
+2. MAIN NAVBAR
+- White background.
+- Samueli Fashion logo on the left.
+- Navigation links centered:
+  - Xhaketa
+  - Kostume Sportive
+  - Bluza
+  - Atlete
+  - Aksesorë
+  - Oferta
+- Right-side icons:
+  - Search
+  - User / account
+  - Wishlist
+  - Cart
+- Red badge on cart.
+- Navbar should look clean, spacious, and high-end.
+
+3. HERO SECTION
+- Large wide banner directly under navbar.
+- Left side: text content.
+- Right side: male model image.
+- Background should feel dark, urban, premium, with a concrete / architectural mood.
+- Maintain the same visual balance as the screenshot.
+
+LEFT CONTENT:
+- Small eyebrow label:
+  "KOLEKSIONI I RI"
+- Main heading:
+  "Koleksioni"
+  "i Ri"
+- “i Ri” must be red.
+- Supporting text:
+  "Stil urban, rehati maksimale dhe cilësi që zgjat."
+- White CTA button:
+  "Shiko Tani"
+- Small slider indicators under the CTA area.
+
+RIGHT CONTENT:
+- A sharp, realistic, premium-looking hero image of a male model in black streetwear / jacket.
+- The model should be dominant on the right side.
+- Preserve a high-end editorial look.
+
+4. CATEGORY SHORTCUT CARDS BELOW HERO
+Below the hero, create a horizontal row of rounded cards for:
+- Xhaketa
+- Kostume Sportive
+- Bluza
+- Atlete
+- Aksesorë
+
+Each card should have:
+- light-gray background
+- rounded corners
+- centered or balanced product image/icon
+- black text
+- arrow on the right
+- generous spacing
+- clean premium feel
+
+These cards should visually match the reference exactly as closely as possible.
+
+==================================================
+MOBILE HERO REQUIREMENTS
+==================================================
+
+Create the mobile hero so it matches the attached mobile screenshot.
+
+1. MOBILE HEADER
+- White background.
+- Hamburger icon on the left.
+- SAMUELI FASHION logo centered.
+- Search and cart icons on the right.
+- Red cart badge.
+
+2. MOBILE HERO
+- Full-width hero image.
+- Same premium black/gray urban mood.
+- Model visible on the right.
+- Left-aligned text over the image:
+  - “Koleksioni”
+  - “i Ri” in red
+  - supporting text
+  - CTA button “Shiko Tani”
+- Slider indicators below the content.
+
+3. MOBILE CATEGORY CARDS
+- Same five category shortcuts:
+  - Xhaketa
+  - Kostume Sportive
+  - Bluza
+  - Atlete
+  - Aksesorë
+- Display them in a compact but elegant mobile layout.
+- Use the same light-gray card style.
+- Keep spacing and proportions close to the screenshot.
+
+4. BELOW HERO
+- Begin the “Të Preferuarat” section visually like the screenshot, but only as needed if this already exists.
+- Do not redesign further sections unless needed for consistency.
+
+==================================================
+STYLING REQUIREMENTS
+==================================================
+
+Use the Samueli design language shown in the references:
+- white main background
+- black typography
+- red accent color
+- soft light-gray cards
+- subtle rounded corners
+- minimal shadows
+- premium fashion e-commerce aesthetic
+
+Typography and spacing must feel polished and intentional.
+
+Do not make it look like:
+- a generic template
+- a random AI landing page
+- an overly animated or flashy design
+
+==================================================
+IMPLEMENTATION RULES
+==================================================
+
+- Reuse existing components where possible.
+- If needed, create or update reusable components for:
+  - top info bar
+  - navbar
+  - hero
+  - category shortcut cards
+- Preserve responsiveness.
+- Preserve current project conventions.
+- If the project already uses React / Next.js / Tailwind / CSS modules, follow the existing architecture.
+- Keep code clean and production-ready.
+
+If the project already has a slider setup, adapt it.
+If not, create a hero structure ready for slider functionality later.
+
+==================================================
+DO NOT
+==================================================
+
+- Do not redesign the whole website.
+- Do not change the logo.
+- Do not change the text copy.
+- Do not invent a different hero layout.
+- Do not replace the approved category card style.
+- Do not use the screenshot itself as a flat hero background.
+- Do not make the design look different from the references.
+
+==================================================
+DELIVERABLE
+==================================================
+
+Update the code so the homepage hero section closely matches the provided desktop and mobile screenshots.
+
+Focus on:
+- visual fidelity
+- clean frontend implementation
+- responsiveness
+- preserving the Samueli Fashion premium look
