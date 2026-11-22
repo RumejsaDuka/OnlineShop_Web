@@ -5,6 +5,7 @@ import { useRef } from "react";
 import { ArrowRight } from "lucide-react";
 import { categories } from "@/lib/data";
 import { gsap, useGSAP, MOTION_OK } from "@/lib/gsap";
+import { publicAssetPath } from "@/lib/site-config";
 
 export default function Hero() {
   const root = useRef<HTMLElement>(null);
@@ -26,7 +27,7 @@ export default function Hero() {
     <section ref={root} aria-labelledby="hero-title" className="collection-hero relative isolate overflow-hidden bg-[#f1f1f2] text-ink">
       <div data-intro data-photo className="collection-hero-photo absolute inset-0 -z-20">
         <picture>
-          <img src="/images/hero/campaign-background-1936.webp" srcSet="/images/hero/campaign-background-768.webp 768w, /images/hero/campaign-background-1200.webp 1200w, /images/hero/campaign-background-1600.webp 1600w, /images/hero/campaign-background-1936.webp 1936w" sizes="(min-width: 1024px) 100vw, 1600px" alt="Model me xhaketë të zezë dimri pranë një ndërtese prej betoni." width={1936} height={544} fetchPriority="high" loading="eager" decoding="async" className="collection-hero-image" />
+          <img src={publicAssetPath("/images/hero/campaign-background-1936.webp")} srcSet={`${publicAssetPath("/images/hero/campaign-background-768.webp")} 768w, ${publicAssetPath("/images/hero/campaign-background-1200.webp")} 1200w, ${publicAssetPath("/images/hero/campaign-background-1600.webp")} 1600w, ${publicAssetPath("/images/hero/campaign-background-1936.webp")} 1936w`} sizes="(min-width: 1024px) 100vw, 1600px" alt="Model me xhaketë të zezë dimri pranë një ndërtese prej betoni." width={1936} height={544} fetchPriority="high" loading="eager" decoding="async" className="collection-hero-image" />
         </picture>
       </div>
       <div className="campaign-container collection-hero-grid">

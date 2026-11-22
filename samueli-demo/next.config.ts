@@ -1,9 +1,10 @@
 import type { NextConfig } from "next";
+import { siteBasePath } from "./src/lib/site-config";
 
 const nextConfig: NextConfig = {
   devIndicators: false,
   output: "export",
-  basePath: "/OnlineShop_Web",
+  basePath: siteBasePath,
   images: {
     unoptimized: true,
     formats: ["image/avif", "image/webp"],

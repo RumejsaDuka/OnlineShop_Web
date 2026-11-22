@@ -2,12 +2,13 @@ import Image from "next/image";
 import Link from "next/link";
 import { ArrowRight, ChevronRight } from "lucide-react";
 import { formatPrice, type Product } from "@/lib/data";
+import { publicAssetPath } from "@/lib/site-config";
 
 /** Official wordmark — always the supplied image, never re-typeset. */
 export function Logo({ tone = "black", className = "", priority = false }: { tone?: "white" | "black"; className?: string; priority?: boolean }) {
   return (
     <Image
-      src={`/images/brand/samueli-fashion-${tone}.png`}
+      src={publicAssetPath(`/images/brand/samueli-fashion-${tone}.png`)}
       alt="SAMUELI FASHION"
       width={1367}
       height={480}

@@ -7,6 +7,7 @@ import { ArrowRight, MessageCircle, Ruler, ShoppingBag, Store } from "lucide-rea
 import { categories, favoriteSlugs, getProduct, type Product } from "@/lib/data";
 import { gsap, useGSAP, MOTION_OK } from "@/lib/gsap";
 import { photography } from "@/lib/photography";
+import { publicAssetPath } from "@/lib/site-config";
 import ProductCard from "../ProductCard";
 import { SectionHead } from "../ui";
 
@@ -27,7 +28,7 @@ export function CategoryShortcuts() {
           <li key={c.slug} data-cat data-intro className="min-w-0">
             <Link href={`/kategoria/${c.slug}`} className="home-category-link group flex h-full flex-col items-center justify-center rounded-[14px] bg-surface px-1 py-2 lg:flex-row lg:gap-4 lg:px-4">
               <span className="relative h-12 w-full shrink-0 lg:h-16 lg:w-16">
-                <Image src={c.slug === "bluza" ? "/images/shortcuts/black-tee.webp" : c.thumb.replace('/studio/', '/shortcuts/')} alt="" fill sizes="(min-width: 1024px) 64px, 16vw" className="zoom-img object-contain" />
+                <Image src={c.slug === "bluza" ? publicAssetPath("/images/shortcuts/black-tee.webp") : c.thumb.replace('/studio/', '/shortcuts/')} alt="" fill sizes="(min-width: 1024px) 64px, 16vw" className="zoom-img object-contain" />
               </span>
               <span className="home-category-label flex min-h-7 items-center text-center font-bold leading-[1.08] lg:min-h-0 lg:flex-1 lg:text-left">{c.label}</span>
               <ArrowRight aria-hidden className="arrow-nudge hidden size-5 shrink-0 lg:block" />

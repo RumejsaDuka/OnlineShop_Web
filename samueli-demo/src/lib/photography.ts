@@ -1,5 +1,7 @@
 /** Shared, product-only photography. Originals and generation provenance live in design/. */
-const photo = (name: string) => `/images/studio/${name}.webp`;
+import { publicAssetPath } from "./site-config";
+
+const photo = (name: string) => publicAssetPath(`/images/studio/${name}.webp`);
 
 export const photography = {
   puffer: photo("puffer"),

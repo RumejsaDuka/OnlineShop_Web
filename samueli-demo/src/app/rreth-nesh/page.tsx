@@ -6,6 +6,7 @@ import { Ruler, Shirt, Store } from "lucide-react";
 import PageHero from "@/components/PageHero";
 import RevealScope from "@/components/RevealScope";
 import { Breadcrumbs } from "@/components/ui";
+import { publicAssetPath } from "@/lib/site-config";
 
 export const metadata: Metadata = pageMetadata("Rreth Samueli Fashion", "Samueli Fashion është dyqan veshjesh për meshkuj. Shiko dyqanin dhe na kontakto për produktet dhe masat.", "/rreth-nesh");
 
@@ -27,7 +28,7 @@ export default function Page() {
           {/* The only documentary photograph on the site: the real storefront, unaltered. */}
           <div className="relative aspect-[567/535] overflow-hidden rounded-[22px] bg-surface">
             <Image
-              src="/images/store/samueli_store_front.webp"
+              src={publicAssetPath("/images/store/samueli_store_front.webp")}
               alt="Fasada e dyqanit SAMUELI FASHION"
               fill
               sizes="(min-width: 768px) 46vw, 100vw"
